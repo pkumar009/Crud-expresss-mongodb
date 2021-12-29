@@ -1,0 +1,53 @@
+const employee = [{
+    "id": 1,
+    "first_name": "Merna",
+    "last_name": "Spruce",
+    "email": "mspruce0@cargocollective.com"
+  }, {
+    "id": 2,
+    "first_name": "Meier",
+    "last_name": "Althorpe",
+    "email": "malthorpe1@hubpages.com"
+  }, {
+    "id": 3,
+    "first_name": "Eada",
+    "last_name": "Gammett",
+    "email": "egammett2@zimbio.com"
+  }, {
+    "id": 4,
+    "first_name": "Murvyn",
+    "last_name": "Nagle",
+    "email": "mnagle3@theglobeandmail.com"
+  }, {
+    "id": 5,
+    "first_name": "Edik",
+    "last_name": "Cockerton",
+    "email": "ecockerton4@washington.edu"
+  }, {
+    "id": 6,
+    "first_name": "Chlo",
+    "last_name": "Ryott",
+    "email": "cryott5@chronoengine.com"
+  }, {
+    "id": 7,
+    "first_name": "Renie",
+    "last_name": "Stuart",
+    "email": "rstuart6@harvard.edu"
+  }, {
+    "id": 8,
+    "first_name": "Hilda",
+    "last_name": "Gebby",
+    "email": "hgebby7@yellowbook.com"
+  }, {
+    "id": 9,
+    "first_name": "Kipper",
+    "last_name": "Biasio",
+    "email": "kbiasio8@weibo.com"
+  }, {
+    "id": 10,
+    "first_name": "Annadiana",
+    "last_name": "Brane",
+    "email": "abrane9@craigslist.org"
+  }];
+
+  module.exports = employee;
